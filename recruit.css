@@ -248,7 +248,10 @@ html {
 }
 /*End Tutorial Take Away*/
 
-footer, nav {
+footer {
 	display: block;
-}
-
+	position : absolute;
+	bottom : 0;
+	height : 40px;
+	margin-top : 40px;
+  }
