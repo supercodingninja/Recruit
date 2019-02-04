@@ -2,6 +2,11 @@ html {
     background-color: black;
 }
 
+img {
+	width: 100%;
+	height: 100%;
+}
+
 .os-phrases h2 {
 	font-family: 'Dosis', 'Lato', sans-serif;
 	font-size: 30px;
