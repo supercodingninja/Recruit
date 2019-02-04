@@ -247,3 +247,8 @@ html {
 	font-weight: 600;
 }
 /*End Tutorial Take Away*/
+
+footer, nav {
+	display: block;
+}
+
