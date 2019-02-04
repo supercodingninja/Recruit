@@ -3,8 +3,8 @@ html {
 }
 
 img {
-	width: 720px;
-	height: 360px;
+	width: 600px;
+	height: 260px;
 }
 
 .os-phrases h2 {
@@ -17,7 +17,7 @@ img {
 	padding: 0;
 	margin: 0;
 	position: absolute;
-	top: 1px;
+	top: 30px;
 	left: 0;
 	letter-spacing: 8px;
 	text-align: center;
